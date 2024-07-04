@@ -4,15 +4,18 @@ Distribution  Verson control system(VCS)
 3. Restoring Previous Versions
 
 vs-code ctrl + j ==open terminal
+profile-settings-developersettings-personal access tokens - token clasic
+
 
 create gitHub repo
 create folder to local pc
 
 echo "# ProgrammingHero" >> README.md
-git init
+1. git init 
+2. git add .
 git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/anik554/ProgrammingHero.git
-git push -u origin main
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin https://github.com/anik554/ProgrammingHero.git
+6 .git push -u origin main
 
