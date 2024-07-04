@@ -5,7 +5,7 @@ Distribution  Verson control system(VCS)
 
 vs-code ctrl + j ==open terminal
 profile-settings-developersettings-personal access tokens - token clasic
-
+git remote -v = kothay file jasche and asche
 
 create gitHub repo
 create folder to local pc
