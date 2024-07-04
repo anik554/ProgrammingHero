@@ -1,0 +1,18 @@
+Distribution  Verson control system(VCS)
+1. Collaboration
+2. Storing Versions
+3. Restoring Previous Versions
+
+vs-code ctrl + j ==open terminal
+
+create gitHub repo
+create folder to local pc
+
+echo "# ProgrammingHero" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anik554/ProgrammingHero.git
+git push -u origin main
+

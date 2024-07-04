@@ -1,0 +1,38 @@
+.html --> computer k bole dischi file ta kon typer
+html --> hypertext markup language  
+
+inline tag = strong, em, i, small, span (same line e effect kore)
+block tag = p, h1, div (new line ba block create kore)
+container tag = ul,ol,div
+hypertext reference = rhef
+ctrl + l = select link
+void tag = <>
+self-closing = </>
+atribute tag er vitore thake = <input type="" > ,<img type=""> 
+
+
+
+
+extension:
+live server
+code spell checker
+
+
+
+summary:
+structure --> <></>
+paragraph --> <p></p>
+bold --> <b></b> (just bold)
+strong --> <strong></strong> (semantic -- meaningful)
+italic --> <i><i/>
+emphasize --> <em></em> (semantic -- meaningful)
+heading --> <h1....h6></h1.....h6>
+small --> <small></small>
+unordered list --> <ul>
+ordered list --> <ol>
+list item --> <li>
+break --> <br>
+anchor --> <a></a>
+image --> <img>
+input
+html structure

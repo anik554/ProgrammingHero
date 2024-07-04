@@ -1,0 +1,21 @@
+CSS == cascading style sheets
+
+selector = id, class, element(tag), universal, grouping, attribute
+masuring unit
+margin round according to Top, Right,Bottom, Left
+// attribute selector
+input[type:"password"]{
+    color: "red";
+}
+
+
+Box Model--
+1. content
+2. border
+3. margin
+4. padding
+
+
+box-shadow = 10px(x) 10px(y) 20px color 
+
+
