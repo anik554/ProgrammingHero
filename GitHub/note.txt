@@ -7,6 +7,13 @@ vs-code ctrl + j ==open terminal
 profile-settings-developersettings-personal access tokens - token clasic
 git remote -v = kothay file jasche and asche
 
+
+git fork = onner open sourch project nijer profile e ana then git clone kore local e ratha
+git branch = show current branch
+git checkout -b newBranch = create new branch and cheack new branch
+or,
+git branch newBranch = create new branch
+
 create gitHub repo
 create folder to local pc
 
